@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootElement>
+<tracks rows="10000" startRow="0" endRow="1120" rowsPerBeat="8"
+beatsPerMin="125">
+	<track name="scene" folded="1" muteKeyCount="0" color="ffb25091">
+		<key row="0" value="1.000000" interpolation="0" />
+		<key row="292" value="2.000000" interpolation="0" />
+		<key row="548" value="1.000000" interpolation="0" />
+		<key row="1060" value="1.000000" interpolation="0" />
+		<key row="1120" value="1.000000" interpolation="0" />
+	</track>
+	<track name="lb n1" folded="0" muteKeyCount="0" color="ffb27474">
+		<key row="0" value="1.000000" interpolation="0" />
+		<key row="132" value="1.000000" interpolation="0" />
+		<key row="136" value="1.600000" interpolation="0" />
+		<key row="140" value="2.000000" interpolation="0" />
+		<key row="144" value="2.400000" interpolation="0" />
+		<key row="148" value="2.700000" interpolation="0" />
+		<key row="152" value="2.999999" interpolation="0" />
+		<key row="156" value="3.099999" interpolation="0" />
+		<key row="160" value="3.299999" interpolation="0" />
+		<key row="180" value="3.299999" interpolation="2" />
+		<key row="195" value="2.400000" interpolation="0" />
+		<key row="228" value="2.400000" interpolation="0" />
+		<key row="236" value="2.700000" interpolation="0" />
+		<key row="244" value="2.900000" interpolation="0" />
+		<key row="252" value="3.099999" interpolation="0" />
+		<key row="260" value="3.099999" interpolation="0" />
+		<key row="548" value="3.099999" interpolation="0" />
+		<key row="580" value="3.099999" interpolation="0" />
+		<key row="612" value="4.500000" interpolation="0" />
+		<key row="644" value="5.299998" interpolation="0" />
+		<key row="676" value="3.409999" interpolation="0" />
+		<key row="804" value="3.499999" interpolation="0" />
+		<key row="868" value="2.499999" interpolation="0" />
+		<key row="932" value="3.099999" interpolation="0" />
+	</track>
+	<track name="lb n2" folded="0" muteKeyCount="0" color="ffb28050">
+		<key row="0" value="1.000000" interpolation="0" />
+		<key row="36" value="2.000000" interpolation="0" />
+		<key row="82" value="2.000000" interpolation="2" />
+		<key row="98" value="4.000000" interpolation="0" />
+		<key row="160" value="4.000000" interpolation="0" />
+		<key row="164" value="4.000000" interpolation="1" />
+		<key row="180" value="2.700001" interpolation="0" />
+		<key row="228" value="2.700001" interpolation="0" />
+		<key row="260" value="2.400001" interpolation="0" />
+		<key row="548" value="2.400001" interpolation="0" />
+		<key row="580" value="1.599999" interpolation="0" />
+		<key row="612" value="4.100000" interpolation="0" />
+		<key row="644" value="1.600001" interpolation="0" />
+		<key row="676" value="3.200000" interpolation="0" />
+		<key row="804" value="2.700001" interpolation="0" />
+		<key row="836" value="2.200001" interpolation="0" />
+		<key row="868" value="0.300000" interpolation="0" />
+		<key row="900" value="1.700000" interpolation="0" />
+		<key row="932" value="0.200000" interpolation="0" />
+	</track>
+	<track name="lb box size" folded="0" muteKeyCount="0"
+color="ffa9b250">
+		<key row="0" value="5.999999" interpolation="2" />
+		<key row="35" value="8.985499" interpolation="0" />
+		<key row="36" value="7.600000" interpolation="0" />
+		<key row="68" value="7.700000" interpolation="0" />
+		<key row="69" value="7.600000" interpolation="0" />
+		<key row="72" value="7.700000" interpolation="0" />
+		<key row="73" value="7.600000" interpolation="0" />
+		<key row="76" value="7.700000" interpolation="0" />
+		<key row="77" value="7.600000" interpolation="0" />
+		<key row="80" value="7.700000" interpolation="0" />
+		<key row="81" value="7.600000" interpolation="0" />
+		<key row="82" value="7.600000" interpolation="2" />
+		<key row="98" value="5.600000" interpolation="0" />
+		<key row="132" value="5.800000" interpolation="0" />
+		<key row="133" value="5.600000" interpolation="0" />
+		<key row="136" value="5.800000" interpolation="0" />
+		<key row="137" value="5.600000" interpolation="0" />
+		<key row="140" value="5.800000" interpolation="0" />
+		<key row="141" value="5.600000" interpolation="0" />
+		<key row="144" value="5.800000" interpolation="0" />
+		<key row="145" value="5.600000" interpolation="0" />
+		<key row="148" value="5.800000" interpolation="0" />
+		<key row="149" value="5.600000" interpolation="0" />
+		<key row="152" value="5.800000" interpolation="0" />
+		<key row="153" value="5.600000" interpolation="0" />
+		<key row="156" value="5.800000" interpolation="0" />
+		<key row="157" value="5.600000" interpolation="0" />
+		<key row="160" value="5.800000" interpolation="0" />
+		<key row="161" value="5.600000" interpolation="0" />
+		<key row="195" value="5.600000" interpolation="2" />
+		<key row="228" value="8.800001" interpolation="2" />
+		<key row="232" value="9.000002" interpolation="2" />
+		<key row="236" value="8.800001" interpolation="2" />
+		<key row="240" value="9.000002" interpolation="2" />
+		<key row="244" value="8.800001" interpolation="2" />
+		<key row="248" value="9.000002" interpolation="2" />
+		<key row="252" value="8.800001" interpolation="2" />
+		<key row="256" value="9.000002" interpolation="2" />
+		<key row="260" value="8.800001" interpolation="0" />
+		<key row="276" value="8.800001" interpolation="2" />
+		<key row="292" value="9.900005" interpolation="0" />
+		<key row="548" value="8.199999" interpolation="2" />
+		<key row="564" value="9.649999" interpolation="2" />
+		<key row="579" value="8.216279" interpolation="0" />
+		<key row="580" value="8.899998" interpolation="2" />
+		<key row="596" value="10.600000" interpolation="2" />
+		<key row="611" value="9.697176" interpolation="0" />
+		<key row="612" value="5.900001" interpolation="2" />
+		<key row="628" value="9.199999" interpolation="2" />
+		<key row="643" value="7.899999" interpolation="0" />
+		<key row="644" value="9.000002" interpolation="2" />
+		<key row="660" value="10.600000" interpolation="2" />
+		<key row="675" value="10.000006" interpolation="0" />
+		<key row="676" value="10.400007" interpolation="0" />
+		<key row="804" value="6.300000" interpolation="0" />
+		<key row="868" value="10.700008" interpolation="0" />
+		<key row="932" value="10.700008" interpolation="0" />
+	</track>
+	<track name="rotate X" folded="0" muteKeyCount="0"
+color="ff60b250">
+		<key row="0" value="0.000000" interpolation="0" />
+		<key row="160" value="0.000000" interpolation="0" />
+		<key row="548" value="0.100000" interpolation="0" />
+		<key row="580" value="0.400000" interpolation="0" />
+		<key row="612" value="-0.900000" interpolation="0" />
+		<key row="676" value="-0.900000" interpolation="0" />
+		<key row="804" value="0.000000" interpolation="2" />
+		<key row="836" value="0.500000" interpolation="2" />
+		<key row="867" value="0.000000" interpolation="0" />
+		<key row="868" value="-0.700000" interpolation="1" />
+		<key row="932" value="-4.909997" interpolation="0" />
+	</track>
+	<track name="rotate Y" folded="0" muteKeyCount="0"
+color="ff4fb292">
+		<key row="0" value="0.500000" interpolation="0" />
+		<key row="36" value="0.500000" interpolation="2" />
+		<key row="44" value="1.000000" interpolation="2" />
+		<key row="52" value="0.500000" interpolation="2" />
+		<key row="60" value="-0.000000" interpolation="2" />
+		<key row="68" value="0.500000" interpolation="0" />
+		<key row="100" value="0.500000" interpolation="2" />
+		<key row="108" value="-0.000000" interpolation="2" />
+		<key row="116" value="0.500000" interpolation="2" />
+		<key row="124" value="1.000000" interpolation="2" />
+		<key row="132" value="0.500000" interpolation="0" />
+		<key row="276" value="0.500000" interpolation="2" />
+		<key row="292" value="-2.000000" interpolation="0" />
+		<key row="548" value="-2.200000" interpolation="0" />
+		<key row="580" value="-1.900000" interpolation="0" />
+		<key row="612" value="-2.400000" interpolation="0" />
+		<key row="676" value="-2.400000" interpolation="0" />
+		<key row="804" value="-0.400000" interpolation="1" />
+		<key row="836" value="0.500000" interpolation="1" />
+		<key row="867" value="1.500000" interpolation="0" />
+		<key row="868" value="-2.400000" interpolation="2" />
+		<key row="932" value="-4.199998" interpolation="0" />
+	</track>
+	<track name="rotate Z" folded="0" muteKeyCount="0"
+color="ff4f71b2">
+		<key row="0" value="0.000000" interpolation="0" />
+		<key row="124" value="0.000000" interpolation="2" />
+		<key row="132" value="-0.500000" interpolation="0" />
+		<key row="548" value="-0.500000" interpolation="0" />
+		<key row="580" value="-1.000000" interpolation="0" />
+		<key row="612" value="-0.600000" interpolation="0" />
+		<key row="676" value="-0.800000" interpolation="0" />
+		<key row="804" value="0.000000" interpolation="0" />
+		<key row="868" value="-0.800000" interpolation="0" />
+		<key row="932" value="-0.800000" interpolation="0" />
+	</track>
+	<track name="lb scale" folded="0" muteKeyCount="0"
+color="ff8850b2">
+		<key row="0" value="-0.100000" interpolation="0" />
+		<key row="160" value="-0.100000" interpolation="2" />
+		<key row="164" value="1.000000" interpolation="0" />
+		<key row="195" value="1.000000" interpolation="2" />
+		<key row="228" value="0.300000" interpolation="0" />
+		<key row="260" value="0.300000" interpolation="2" />
+		<key row="276" value="-0.700000" interpolation="0" />
+		<key row="548" value="-1.400000" interpolation="0" />
+		<key row="580" value="-1.700000" interpolation="0" />
+		<key row="612" value="-0.400000" interpolation="0" />
+		<key row="644" value="-1.400000" interpolation="0" />
+		<key row="676" value="-1.899999" interpolation="2" />
+		<key row="708" value="-0.829999" interpolation="2" />
+		<key row="803" value="-0.189999" interpolation="0" />
+		<key row="804" value="0.310001" interpolation="0" />
+		<key row="868" value="-2.189999" interpolation="0" />
+		<key row="932" value="-2.189999" interpolation="0" />
+	</track>
+	<track name="2 lb n1" folded="1" muteKeyCount="0"
+color="ffb27474">
+		<key row="292" value="8.000000" interpolation="0" />
+		<key row="484" value="8.000000" interpolation="2" />
+		<key row="548" value="2.500006" interpolation="0" />
+	</track>
+	<track name="noise R" folded="1" muteKeyCount="0"
+color="ffb28050">
+		<key row="292" value="1.000000" interpolation="0" />
+		<key row="484" value="1.000000" interpolation="2" />
+		<key row="548" value="2.000000" interpolation="0" />
+	</track>
+	<track name="lb avgD" folded="1" muteKeyCount="0"
+color="ffa9b250">
+		<key row="292" value="5.400001" interpolation="0" />
+		<key row="324" value="5.400001" interpolation="2" />
+		<key row="340" value="5.800001" interpolation="0" />
+		<key row="356" value="5.800001" interpolation="2" />
+		<key row="388" value="7.800001" interpolation="0" />
+		<key row="532" value="7.800001" interpolation="1" />
+		<key row="544" value="10.331251" interpolation="2" />
+		<key row="548" value="13.800005" interpolation="0" />
+	</track>
+	<track name="2 lb scale" folded="1" muteKeyCount="0"
+color="ffb27474">
+		<key row="292" value="0.000000" interpolation="0" />
+		<key row="324" value="0.000000" interpolation="2" />
+		<key row="340" value="7.000000" interpolation="0" />
+		<key row="356" value="7.000000" interpolation="2" />
+		<key row="388" value="13.000000" interpolation="0" />
+	</track>
+	<track name="noise Z" folded="1" muteKeyCount="0"
+color="ff60b250">
+		<key row="292" value="1.000000" interpolation="0" />
+		<key row="324" value="1.000000" interpolation="1" />
+		<key row="420" value="4.000000" interpolation="0" />
+	</track>
+	<track name="noise exp" folded="1" muteKeyCount="0"
+color="ff4fb292">
+		<key row="292" value="0.400000" interpolation="0" />
+	</track>
+	<track name="noise R 2" folded="1" muteKeyCount="0"
+color="ff4f71b2">
+		<key row="292" value="1.000000" interpolation="0" />
+	</track>
+	<track name="lb avgD 2" folded="1" muteKeyCount="0"
+color="ff8850b2">
+		<key row="292" value="8.400002" interpolation="0" />
+	</track>
+	<track name="lb scale 2" folded="1" muteKeyCount="0"
+color="ffb25091">
+		<key row="292" value="0.000000" interpolation="0" />
+	</track>
+</tracks>
+	</rootElement>
